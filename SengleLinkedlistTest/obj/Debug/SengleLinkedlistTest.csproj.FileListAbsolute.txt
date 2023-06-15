@@ -1,0 +1,8 @@
+C:\Users\Hadi Pc\source\repos\testproject\SengleLinkedlistTest\SengleLinkedlistTest\obj\Debug\SengleLinkedlistTest.csproj.AssemblyReference.cache
+C:\Users\Hadi Pc\source\repos\testproject\SengleLinkedlistTest\SengleLinkedlistTest\obj\Debug\SengleLinkedlistTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hadi Pc\source\repos\testproject\SengleLinkedlistTest\SengleLinkedlistTest\obj\Debug\SengleLinkedlistTest.csproj.CoreCompileInputs.cache
+C:\Users\Hadi Pc\source\repos\testproject\SengleLinkedlistTest\SengleLinkedlistTest\bin\Debug\SengleLinkedlistTest.exe.config
+C:\Users\Hadi Pc\source\repos\testproject\SengleLinkedlistTest\SengleLinkedlistTest\bin\Debug\SengleLinkedlistTest.exe
+C:\Users\Hadi Pc\source\repos\testproject\SengleLinkedlistTest\SengleLinkedlistTest\bin\Debug\SengleLinkedlistTest.pdb
+C:\Users\Hadi Pc\source\repos\testproject\SengleLinkedlistTest\SengleLinkedlistTest\obj\Debug\SengleLinkedlistTest.exe
+C:\Users\Hadi Pc\source\repos\testproject\SengleLinkedlistTest\SengleLinkedlistTest\obj\Debug\SengleLinkedlistTest.pdb
